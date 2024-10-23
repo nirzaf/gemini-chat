@@ -4,7 +4,7 @@ import path from "path"
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://dotnetevangelist.net/gemini-chat',
+  base: 'https://nirzaf.github.io/gemini-chat',
   build: {
     outDir: 'dist',
     emptyOutDir: true

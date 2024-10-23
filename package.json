@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dotnetevangelist.net/gemini-chat",
+  "homepage": "https://nirzaf.github.io/gemini-chat",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
