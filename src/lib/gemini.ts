@@ -45,9 +45,9 @@ class GeminiChat {
 
       this.chatSession = this.model.startChat({
         generationConfig: {
-          temperature: 0.9,
+          temperature: 0.6,
           topP: 0.95,
-          topK: 40,
+          topK: 20,
           maxOutputTokens: 8192,
         },
         history: [],
