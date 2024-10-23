@@ -1,6 +1,6 @@
 {
   "name": "gemini-chat-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://dotnetevangelist.net/gemini-chat",
